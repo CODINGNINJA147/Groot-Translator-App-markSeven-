@@ -7,4 +7,4 @@ A translator app on which we can translate normal English to Shakespeare English
 
 3.Output will shown Below
 
-Here we have used the Shakespeare Translator API from
+Here we have used the Groot Translator API.
