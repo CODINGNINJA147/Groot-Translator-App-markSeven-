@@ -30,6 +30,10 @@ textarea{
     border: none;
     border-radius: 8px;
     background-color: rgb(159, 176, 208);
+    font-size: large;
+    font-weight: 600;
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
 }
 
 button{
